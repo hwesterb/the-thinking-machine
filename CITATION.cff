@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+- family-names: "Westerberg"
+  given-names: "Henrik"
+  email: "henrik.westerberg@emergentwisdom.org"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "The Thinking Machine"
+version: 1.0.0
+date-released: 2025-06-03
+url: "https://github.com/henrik-westerberg/the-thinking-machine"
+keywords:
+  - artificial intelligence
+  - metacognitive training
+  - machine learning
+  - language models
+  - consciousness
+  - evaluative thinking
+  - AI alignment
+abstract: "Current language models generate human-like text without the evaluative thinking that humans naturally employ while reading and writing. We propose metacognitive training: augmenting training data with explicit evaluative thinking to teach models not just what to say but how to think about what they say. This approach suggests that the path to artificial general intelligence may lie not in scale but in creating thinking machines—systems that evaluate while they generate, bringing to text the contemplative capacity that makes human reading an act of understanding rather than mere decoding."
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Westerberg"
+    given-names: "Henrik"
+  title: "The Thinking Machine"
+  year: 2025
+  month: 6
+  url: "https://github.com/henrik-westerberg/the-thinking-machine"
+  journal: "arXiv preprint"
